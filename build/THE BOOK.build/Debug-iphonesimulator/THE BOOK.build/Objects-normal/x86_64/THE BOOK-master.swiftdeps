@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "e8cabc433458c996e7f94ef91a6af745"
+build_time: [1635434063, 218955000]
+inputs:
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/DetailViewController.swift": !private [1635426580, 924601452]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/UpdateviewViewController.swift": [1635433692, 915692063]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/CoreData.swift": [1635425375, 642217611]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/BaseViewController.swift": [1635411128, 174141660]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/MenuViewControllerOne.swift": [1635411128, 202970074]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/ViewController.swift": [1635407099, 754756828]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/AppDelegate.swift": [1635408801, 164450842]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/SceneDelegate.swift": [1635402704, 898486358]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/AboutusViewController.swift": [1635433691, 399908727]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/BOOKS+CoreData.swift": [1635424644, 766506054]
+  "/Users/srikanthvemana/Desktop/SaveCoreData.swift": [1635426456, 72600537]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/DetailsTableViewCell.swift": [1635424278, 373412968]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/MenuSideTableViewCell.swift": [1621254686, 7278486]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/categoryViewController.swift": [1635410873, 252921654]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/categoryTableViewCell.swift": [1635406908, 298472348]
+  "/Users/srikanthvemana/Desktop/THE BOOK/THE BOOK/ADDdetailsViewController.swift": [1635433048, 243794939]
